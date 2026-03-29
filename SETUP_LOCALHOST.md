@@ -28,8 +28,8 @@ Default values are:
 
 ## 4. Default login
 The API auto-creates an admin account on first auth request:
-- Email: `admin@grandhorizon.com`
-- Password: `admin123`
+- Email: `admin`
+- Password: `admin`
 
 ## 5. API endpoints created
 - Auth:
